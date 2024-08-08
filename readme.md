@@ -28,8 +28,10 @@ API RESTful para un sistema de evaluación 360 grados de empleados remotos en un
 ### Clonar el repositorio
 
 ```bash
-git clone <url_del_repositorio>
+git clone (https://github.com/CesarSanvicente/test-technical.git)
 cd test-technical
+npm install
+node src/index.js
 
 
 
